@@ -1,5 +1,5 @@
-#--> this is, Just-For-Fun
-#--> these is exercises then i writing for any body.
+#--> This is Just-For-Fun
 
+#--> These are exercises that I wrote for different people. I put themhere so that others can use them.
 
 my email : sajadsajad.sch@gmail.com
